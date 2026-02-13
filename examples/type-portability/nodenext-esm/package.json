@@ -7,7 +7,7 @@
   "main": "src/index.tsx",
   "type": "module",
   "dependencies": {
-    "@reduxjs/toolkit": "workspace:^",
+    "@reduxjs/toolkit": "1.0.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-redux": "^9.1.2",
